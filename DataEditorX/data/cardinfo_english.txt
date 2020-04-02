@@ -6,8 +6,11 @@
 0x3	OCG&TCG
 0x4	Anime/DIY
 0x8	Illegal
+0x10	VG
 0x20	Custom
-0x4	Anime/DIY
+0x100	Pre-release
+0x101	OCG/Pre-release
+0x102	TCG/Pre-release
 ##attribute
 0x0	Attribute
 0x1	EARTH
@@ -43,38 +46,38 @@
 0x2	
 0x4	
 ##category
-0x1	S/T Destroy    
-0x2	Destroy Monster
-0x4	Banish         
-0x8	Graveyard      
-0x10	Back to Hand   
-0x20	Back to Deck   
-0x40	Destroy Hand   
-0x80	Destroy Deck   
-0x100	Draw           
-0x200	Search         
-0x400	Recovery       
-0x800	Position       
-0x1000	Control        
-0x2000	Change ATK/DEF 
-0x4000	Piercing       
-0x8000	Repeat Attack  
-0x10000	Limit Attack   
-0x20000	Direct Attack  
-0x40000	Special Summon 
-0x80000	Token          
-0x100000	Type-Related   
-0x200000	Property-Related
-0x400000	Damage LP      
-0x800000	Recover LP     
-0x1000000	Destroy        
-0x2000000	Select         
-0x4000000	Counter        
-0x8000000	Gamble         
-0x10000000	Fusion-Related 
-0x20000000	Tuner-Related  
-0x40000000	Xyz-Related    
-0x80000000	Negate Effect  
+0x1	Destroy Monster    
+0x2	Destroy S/T
+0x4	Destroy Deck       
+0x8	Destroy Hand
+0x10	Send to GY         
+0x20	Send to Hand
+0x40	Send to Deck       
+0x80	Banish
+0x100	Draw               
+0x200	Search
+0x400	Change ATK/DEF     
+0x800	Change Level/Rank
+0x1000	Position           
+0x2000	Piercing
+0x4000	Direct Attack      
+0x8000	Multi Attack
+0x10000	Negate Activation  
+0x20000	Negate Effect
+0x40000	Damage LP          
+0x80000	Recover LP
+0x100000	Special Summon     
+0x200000	Non-effect
+0x400000	Token-related      
+0x800000	Fusion-related
+0x1000000	Ritual-related     
+0x2000000	Synchro-related
+0x4000000	Xyz-related        
+0x8000000	Link-related
+0x10000000	Counter-related    
+0x20000000	Gamble
+0x40000000	Control            
+0x80000000	Move Zones
 ##race
 0x0	Race
 0x1	Warrior
@@ -103,33 +106,33 @@
 0x800000	Wyrm
 0x1000000	Cyberse
 ##type
-0x1	Monster   
-0x2	Spell     
-0x4	Trap      
+0x1	Monster    
+0x2	Spell    
+0x4	Trap   
 0x8	N/A
-0x10	Normal    
-0x20	Effect    
+0x10	Normal     
+0x20	Effect   
 0x40	Fusion    
-0x80	Ritual    
+0x80	Ritual     
 0x100	N/A
-0x200	Spirit    
+0x200	Spirit   
 0x400	Union     
-0x800	Gemini    
-0x1000	Tuner     
-0x2000	Synchro   
-0x4000	Token     
+0x800	Gemini     
+0x1000	Tuner    
+0x2000	Synchro 
+0x4000	Token      
 0x8000	N/A
 0x10000	Quick-Play
 0x20000	Continuous
-0x40000	Equip     
-0x80000	Field     
-0x100000	Counter   
-0x200000	Flip      
-0x400000	Toon      
-0x800000	Xyz       
-0x1000000	Pendulum  
-0x2000000	SPSummon  
-0x4000000	Link      
+0x40000	Equip      
+0x80000	Field    
+0x100000	Counter
+0x200000	Flip       
+0x400000	Toon     
+0x800000	Xyz   
+0x1000000	Pendulum   
+0x2000000	SPSummon 
+0x4000000	Link
 ##setname
 -1	Custom
 0x0	No Archetype
@@ -525,14 +528,32 @@
 0x12d	Simorgh
 0x12e	Fortune Fairy
 0x12f	Battlewasp
-0x130	Hakai
-0x1130	Hakaishin
+0x130	Unchained
+0x1130	Unchained Soul
 0x131	Dream Mirror
 0x132	Mathmech
 0x133	Dragonmaid
 0x134	Generaider
-0x234	@Ignister
-0x235	A.I.
+0x135	@Ignister
+0x136	A.I.
+0x137	Ancient Warriors
+0x138	Megalith
+0x139	Onomat
+0x13a	Palladium
+0x13b	Rebellion
+0x13c	Codebreaker
+0x13d	Nemesys
+0x13e	Barbaros
+0x13f	Plunder Patroll
+0x140	Adamancipator
+0x141	Rikka
+0x142	Eldlich
+0x143	Eldlixir
+0x144	Golden Land
+0x145	Phantasm
+0x241	Roland
+0x242	Merfae
+0x243	Fossil
 0x2033	Blackwing Tamer
 0x5034	Advanced Crystal Beast
 0x2048	Number S
