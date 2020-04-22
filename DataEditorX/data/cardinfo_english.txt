@@ -254,7 +254,6 @@
 0x604e	Evolsaur
 0x504e	Evolzar
 0x4f	Dark Lucius
-0x2033	Blackwing Tamer
 0x104f	/Assault Mode
 0x50	Venom
 0x1050	Starving Venom
@@ -561,6 +560,7 @@
 0x148	Potan
 0x149	Roland
 0x243	Fossil
+0x2033	Blackwing Tamer
 0x5034	Advanced Crystal Beast
 0x2048	Number S
 0x209b	Melodious Songstress
@@ -608,7 +608,7 @@
 0x51e	Forbidden Beast
 0x51f	Forest
 0x520	Fortune Fairy
-0x521	Fossil
+0x521	Fossil (Anime)
 0x1521	Fossil Knight
 0x2521	Cenozoic
 0x3521	Cenozoic Fossil Knight
