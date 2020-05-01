@@ -1,0 +1,7 @@
+# database history
+C:\Users\naims\Desktop\IGNIS\repositories\Customs\Naim-Customs.cdb
+C:\Users\naims\Documents\Github\BabelCDB\release.cdb
+# script history
+C:\Users\naims\Desktop\IGNIS\repositories\Customs\script\c210777001.lua
+C:\Users\naims\Desktop\IGNIS\repositories\Customs\script\c210777000.lua
+C:\Ygopro_Percy\script\c176392.lua
