@@ -15,7 +15,10 @@
 0x101	OCG/Pre-release
 0x102	TCG/Pre-release
 0x200	Rush
+0x300	Rush/Pre-release
 0x400	Legend
+0x600	Rush/Legend
+0x700	Rush/Prerelease/Legend
 0x1000	Hidden
 0x1004	Anime/Manga/Hidden
 ##attribute
@@ -289,8 +292,6 @@
 0x66	Warrior
 0x1066	Symphonic Warrior
 0x2066	Magnet Warrior
-0x67	Iron
-0x68	Tin
 0x69	Hieratic
 0x6a	Butterspy
 0x6b	Bounzer
@@ -410,7 +411,6 @@
 0xbd	Gaia The Fierce Knight
 0xbe	Monarch
 0xbf	Charmer
-0xc0	Familiar-Possessed
 0xc1	PSY-Frame
 0x10c1	PSY-Framegear
 0xc2	Power Tool
@@ -567,7 +567,17 @@
 0x147	Märfae
 0x148	Potan
 0x149	Roland
-0x243	Fossil
+0x14a	Appliancer
+0x14b	Numeron
+0x114b	Numeron Gate
+0x14c	Fossil
+0x9013	Meklord Astro
+0x245	Spiritual Art
+0x1245	Spiritual Earth Art
+0x2245	Spiritual Fire Art
+0x247	Souten
+0x0c0	Possessed
+0x10c0	Familiar-Possessed
 0x2033	Blackwing Tamer
 0x5034	Advanced Crystal Beast
 0x2048	Number S
@@ -616,7 +626,7 @@
 0x51e	Forbidden Beast
 0x51f	Forest
 0x520	Fortune Fairy
-0x521	Fossil (Anime)
+0x521	Gaia the Dragon Champion
 0x1521	Fossil Knight
 0x2521	Cenozoic
 0x3521	Cenozoic Fossil Knight
@@ -682,7 +692,7 @@
 0x54d	Spice
 0x154d	Spell Spice
 0x54e	Spirit
-0x154e	Spirit Crystal
+0x154e	Spirit Gem
 0x54f	Starship
 0x550	Statue
 0x1550	Pendulumstatue
@@ -699,7 +709,7 @@
 0x55c	Vigilante
 0x55d	White
 0x155d	White Knight
-0x55f	Wicked Rune
+0x55f	Sinister Doctrine
 0x560	Wisel
 0x1560	Wisel Attack
 0x2560	Wisel Guard
@@ -723,7 +733,7 @@
 0x570	Tentacluster
 0x571	Monarch (monster)
 0x572	Mirror Imagine
-0x573	Hellix
+0x573	Helixx
 0x574	Sunavalon
 0x575	Sunvine
 0x576	Starving Venemy
