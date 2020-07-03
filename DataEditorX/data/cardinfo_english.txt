@@ -564,7 +564,7 @@
 0x144	Golden Land
 0x145	Phantasm
 0x146	Dragma
-0x147	Märfae
+0x147	Melffy
 0x148	Potan
 0x149	Roland
 0x14a	Appliancer
@@ -572,9 +572,9 @@
 0x114b	Numeron Gate
 0x14c	Fossil
 0x9013	Meklord Astro
-0x245	Spiritual Art
-0x1245	Spiritual Earth Art
-0x2245	Spiritual Fire Art
+0x14d	Spiritual Art
+0x114d	Spiritual Earth Art
+0x214d	Spiritual Fire Art
 0x247	Souten
 0x0c0	Possessed
 0x10c0	Familiar-Possessed
