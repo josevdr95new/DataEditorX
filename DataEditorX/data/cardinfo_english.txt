@@ -183,6 +183,7 @@
 0x13	Meklord
 0x3013	Meklord Emperor
 0x6013	Meklord Army
+0x9013	Meklord Astro
 0x14	Allure Queen
 0x15	B.E.S.
 0x16	roid
@@ -411,6 +412,9 @@
 0xbd	Gaia The Fierce Knight
 0xbe	Monarch
 0xbf	Charmer
+0xc0	Possessed
+0x10c0	Familiar-Possessed
+0xc	PSY-Frame
 0xc1	PSY-Frame
 0x10c1	PSY-Framegear
 0xc2	Power Tool
@@ -554,7 +558,7 @@
 0x13a	Palladium
 0x13b	Rebellion
 0x13c	Codebreaker
-0x13d	Nemesys
+0x13d	Nemeses
 0x13e	Barbaros
 0x13f	Plunder Patroll
 0x140	Adamancipator
@@ -563,7 +567,7 @@
 0x143	Eldlixir
 0x144	Golden Land
 0x145	Phantasm
-0x146	Dragma
+0x146	Dogmatika
 0x147	Melffy
 0x148	Potan
 0x149	Roland
@@ -571,13 +575,16 @@
 0x14b	Numeron
 0x114b	Numeron Gate
 0x14c	Fossil
-0x9013	Meklord Astro
 0x14d	Spiritual Art
-0x114d	Spiritual Earth Art
-0x214d	Spiritual Fire Art
-0x247	Souten
-0x0c0	Possessed
-0x10c0	Familiar-Possessed
+0x314d	Spiritual Earth Art
+0x514d	Spiritual Fire Art
+0x614d	Spiritual Water Art
+0xa14d	Spiritual Wind Art
+0x14e	Souten
+0x14f	Tribrigade
+0x150	Datascape
+0x1150	Datascape Gate
+0x24a	Draitron
 0x2033	Blackwing Tamer
 0x5034	Advanced Crystal Beast
 0x2048	Number S
