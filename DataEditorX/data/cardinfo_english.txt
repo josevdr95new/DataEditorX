@@ -585,6 +585,10 @@
 0x150	Datascape
 0x1150	Datascape Gate
 0x24a	Draitron
+0x24b	Magistus
+0x24c	Kisikil
+0x24d	Lilla
+0x24e	Evil★Twin
 0x2033	Blackwing Tamer
 0x5034	Advanced Crystal Beast
 0x2048	Number S
