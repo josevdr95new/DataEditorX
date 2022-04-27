@@ -115,6 +115,12 @@
 0x400000	Creator God
 0x800000	Wyrm
 0x1000000	Cyberse
+0x2000000	Cyborg
+0x4000000	Magical Knight
+0x8000000	High Dragon
+0x10000000	Omega Psychic
+0x20000000	Celestial Warrior
+0x40000000	Galaxy
 ##type
 0x1	Monster    
 0x2	Spell    
@@ -131,22 +137,22 @@
 0x1000	Tuner    
 0x2000	Synchro 
 0x4000	Token      
-0x8000	N/A
+0x8000	Maximum  
 0x10000	Quick-Play
-0x20000	Continuous
-0x40000	Equip      
+0x20000	Continuous 
+0x40000	Equip    
 0x80000	Field    
-0x100000	Counter
-0x200000	Flip       
+0x100000	Counter    
+0x200000	Flip     
 0x400000	Toon     
-0x800000	Xyz   
-0x1000000	Pendulum   
+0x800000	Xyz        
+0x1000000	Pendulum 
 0x2000000	SPSummon 
-0x4000000	Link 
-0x8000000	Skill      
-0x10000000	Action   
-0x20000000	Plus 
-0x40000000	Minor      
+0x4000000	Link       
+0x8000000	Skill    
+0x10000000	Action  
+0x20000000	Plus       
+0x40000000	Minor    
 0x80000000	Armor   
 ##setname
 -1	Custom
@@ -223,9 +229,11 @@
 0x32	Volcanic
 0x33	Blackwing
 0x1033	Assault Blackwing
+0x2033	Blackwing Tamer
 0x34	Crystal
 0x1034	Crystal Beast
 0x2034	Ultimate Crystal
+0x5034	Advanced Crystal Beast
 0x35	Fabled
 0x36	Machina
 0x37	Mist Valley
@@ -255,6 +263,7 @@
 0x1047	Gem-Knight
 0x48	Number
 0x1048	Number C
+0x2048	Number S
 0x5048	Number C39
 0x49	Skyblaster
 0x4a	Timelord
@@ -460,6 +469,7 @@
 0xe1	Metalfoes
 0xe2	Triamid
 0xe3	Cubic
+0x10e3	Cubic Seed
 0xe4	Celtic Guard
 0xe5	Cipher
 0x10e5	Cipher Dragon
@@ -472,6 +482,7 @@
 0xec	Abyss
 0x10ec	Abyss Actor
 0x20ec	Abyss Script
+0x40ec	Abyss Costume
 0xed	Subterror
 0x10ed	Subterror Behemoth
 0xee	SPYRAL
@@ -639,12 +650,19 @@
 0x17a	Sea Stealth
 0x17b	Therions
 0x17c	Scareclaw
-0x2033	Blackwing Tamer
-0x5034	Advanced Crystal Beast
+0x17d	Libromancer
+0x17e	Valiants
+0x17f	Labrynth
+0x117f	Welcome Labrynth
+0x180	Mysterune
+0x181	Splight
+0x182	Tearalaments
+0x183	Vernalizer Fairy
+0x184	Mokey Mokey
+0x185	Wingman
+0x281	G Golem
 0x2048	Number S
 0x209b	Melodious Songstress
-0x10e3	Cubic Seed
-0x40ec	Abyss Costume
 0x500	Speed Spell
 0x501	Alchemy Beast
 0x502	Alligator
@@ -654,9 +672,6 @@
 0x506	Atlandis
 0x507	Attack
 0x508	Baby
-0x509	Barian
-0x1509	Barian's
-0x2509	Battleguard
 0x50b	Beastborg
 0x50c	Butterfly
 0x150c	Phantom Butterfly
