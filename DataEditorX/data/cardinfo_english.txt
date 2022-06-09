@@ -152,7 +152,7 @@
 0x8000000	Skill    
 0x10000000	Action  
 0x20000000	Plus       
-0x40000000	Minor    
+0x40000000	Minus    
 0x80000000	Armor   
 ##setname
 -1	Custom
@@ -661,6 +661,11 @@
 0x184	Mokey Mokey
 0x185	Wingman
 0x281	G Golem
+0x283 Doodle
+0x1283 Doodle Beast
+0x2283 Doodblebook
+0x284 Bridge
+0x285 Kshatri-La
 0x2048	Number S
 0x209b	Melodious Songstress
 0x500	Speed Spell
