@@ -16,7 +16,7 @@ DataEditForm.mainMenu.menuitem_autoreturn	(*)Text auto return
 #
 DataEditForm.btn_img	Import Img
 DataEditForm.lb_types	Card type
-DataEditForm.lb_tiptexts	Script texts
+DataEditForm.lb_tiptexts	Strings
 DataEditForm.lb_categorys	Category
 DataEditForm.lb_cardcode	Code
 DataEditForm.lb_cardalias	Alias
@@ -94,27 +94,27 @@ MainForm.mainMenu.menuitem_closeall	Close All
 0x5	Create fail!
 0x6	Add succeed!
 0x7	Add fail!
-0x8	Code can't be 0!
+0x8	Card code can't be 0!
 0x9	It already exists!
-0xa	It's no changed.
-0xb	If delete Card(s)?
-0xc	If create script file?
-0xd	If open database?
-0xe	If replace exitis cards?
+0xa	No changes.
+0xb	Delete card(s) entry?
+0xc	Create a script file?
+0xd	Open the database?
+0xe	Replace existing card(s)?
 0xf	It's up to date.\nDo you want to download it again?
 0x10	Check update fail. Please Check Network.
 0x11	Find a new version,\nIf Download it?
-0x12	File doesn't exitis!
-0x13	No selected database!
+0x12	File doesn't exist!
+0x13	No database selected!
 0x14	select database file
 0x15	select ydk file
 0x16	selcet image folder
 0x17	Download succeed!
 0x18	Download fail?
 0x19	No selected script text!
-0x1a	Delete succeed!
+0x1a	Deleted!
 0x1b	Delete fail!
-0x1c	Modify succeed!
+0x1c	Modified!
 0x1d	Modify fail!
 0x1e	About  : 
 0x1f	Version: 
@@ -135,7 +135,7 @@ MainForm.mainMenu.menuitem_closeall	Close All
 0x2e	Cutting Images...
 0x2f	Cut Images OK
 0x30	No Selected Cards
-0x31	If Replace Image When it's exisit?
+0x31	Replace existing picture(s)?
 0x32	Converting Images
 0x33	Convert Images OK
 0x34	Compression DataBase OK
@@ -156,7 +156,7 @@ MainForm.mainMenu.menuitem_closeall	Close All
 0x43	Script(*.lua)|*.lua|all files(*.*)|*.*
 0x44	New File
 0x45	Save OK
-0x46	If Save Script?
+0x46	Save the script?
 0x47	Read MSE-set
 0x48	Read MSE-set is OK.
 0x49	Please restart program to apply changes.
