@@ -115,12 +115,14 @@
 0x400000	Creator God
 0x800000	Wyrm
 0x1000000	Cyberse
-0x2000000	Cyborg
-0x4000000	Magical Knight
-0x8000000	High Dragon
-0x10000000	Omega Psychic
-0x20000000	Celestial Warrior
-0x40000000	Galaxy
+0x2000000	Illusion
+0x4000000	Cyborg
+0x8000000	Magical Knight
+0x10000000	High Dragon
+0x20000000	Omega Psychic
+0x40000000	Celestial Warrior
+0x80000000	Galaxy
+0x4000000000000000	Yokai
 ##type
 0x1	Monster    
 0x2	Spell    
@@ -208,7 +210,9 @@
 0x1e	Chrysalis
 0x1f	Neo-Spacian
 0x20	Shien
-0x21	Earthbound Immortal
+0x21	Earthbound
+0x1021	Earthbound Immortal
+0x2021	Earthbound Servant
 0x22	Jurrac
 0x23	Malefic
 0x24	Scrap
@@ -308,7 +312,7 @@
 0x69	Hieratic
 0x6a	Butterspy
 0x6b	Bounzer
-0x6c	Lightray
+0x6c	Helios
 0x6d	Djinn
 0x106d	Djinn of Rituals
 0x6e	Prophecy
@@ -333,6 +337,7 @@
 0x107a	Noble Knight
 0x207a	Noble Arms
 0x507a	Infernoble Knight
+0x607a	Infernoble Arms
 0x7b	Galaxy
 0x107b	Galaxy-Eyes
 0x307b	Galaxy-Eyes Tachyon Dragon
@@ -678,10 +683,12 @@
 0x191	Manadome
 0x192	Nemurelia
 0x193	Gold Pride
-0x28e	Nouvellez
-0x28f	Recipe
-0x290	Favorite
-0x291	Labyrinth Wall
+0x194	Labyrinth Wall
+0x195	Favorite
+0x196	Vanquish Soul
+0x197	Nouvelles
+0x198	Recipe
+0x199	Visas
 0x2048	Number S
 0x209b	Melodious Songstress
 0x500	Speed Spell
@@ -715,8 +722,6 @@
 0x1518	Doodle Beast
 0x519	Dyson
 0x51a	Earth
-0x151a	Earthbound
-0x351a	Earthbound Servant
 0x51b	Elf
 0x151b	Magic Elf
 0x51d	Fairy
